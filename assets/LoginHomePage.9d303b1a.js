@@ -1,1 +1,0 @@
-import{c as t,j as e}from"./vendor.369462a2.js";import o from"./Login.daf888d7.js";import"./index.1d0085a1.js";const s=()=>t("div",{children:[e("h1",{className:"text-center font-bold mt-4 text-xl ",children:"To Be Continue"}),e(o,{afterRedirect:"/"})]});export{s as default};
