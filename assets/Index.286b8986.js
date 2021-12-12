@@ -1,0 +1,1 @@
+import{c as s,j as a,L as d}from"./vendor.369462a2.js";const r=()=>s("div",{className:"container",children:[a(d,{to:"/admin/dashboard",children:"Dashboard"}),a(d,{to:"/admin/dashboard/home",children:"Home"})]});export{r as default};
